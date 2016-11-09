@@ -1,0 +1,1 @@
+DEBUG=myjadeapp:* npm start
